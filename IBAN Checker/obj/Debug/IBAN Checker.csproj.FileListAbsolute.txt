@@ -1,0 +1,10 @@
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\bin\Debug\IBAN Checker.exe.config
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\bin\Debug\IBAN Checker.exe
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\bin\Debug\IBAN Checker.pdb
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN Checker.csproj.AssemblyReference.cache
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN_Checker.Properties.Resources.resources
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN Checker.csproj.GenerateResource.cache
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN Checker.csproj.CoreCompileInputs.cache
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN Checker.exe
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN Checker.pdb
+C:\Users\bichs\source\repos\IBAN Checker\IBAN Checker\obj\Debug\IBAN_Checker.MainForm.resources
